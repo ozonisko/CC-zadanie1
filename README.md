@@ -2,10 +2,13 @@
 Task 1: The odds are even in this war of mine The struggle
 
 Zauważyłem kilka błędów w przykładach do zadania
+
 battle([7,-3,-14,6]) => "evens win" // 111-11 vs -1110+110, 3-2 vs -1+1
+
 1 > 0 czyli chyba 'oddsy' powinny wygrać
 
 battle([17,-3, 32, -24]) => "tie" // 10111-11 vs 100000-11000, 4-2 vs 5-3
+
 17 binarnie to 10001 nie 10111, więc wynik też będzie inny
 
 Zrobiłem to zadanie moim zdaniem najłatwiejszym sposobem lecz pewnie nie najszybszym
